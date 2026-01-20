@@ -1,0 +1,7 @@
+/vendor/
+/node_modules/
+/user_guide/
+*.log
+.env
+.DS_Store
+/application/config/database.php
